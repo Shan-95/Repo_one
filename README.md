@@ -3,26 +3,8 @@
 =======
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+task I have finished using micro-service
 
-Things you may want to cover:
+basically this is second repo where the Post would be created and as soon as it get's created all the user present in repo one would be notified.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
->>>>>>> ed3f446... initial commit
+And this whole proccess is involved with the authentication with JWT and the repos are connected using faraday, as it micro service based
